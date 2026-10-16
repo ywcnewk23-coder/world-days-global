@@ -1,0 +1,17 @@
+{
+  "name": "World Days｜世界の国家記念日",
+  "short_name": "World Days",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f7f4ee",
+  "theme_color": "#f7f4ee",
+  "lang": "ja",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
